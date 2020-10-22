@@ -9,7 +9,7 @@ import com.lyn.algorithm.question.IQuestion;
  * 输出：7 -> 0 -> 8
  * 原因：342 + 465 = 807
  */
-public class AddTwoNumbers implements IQuestion {
+public class Q2_AddTwoNumbers implements IQuestion {
 
     @Override
     public String title() {
